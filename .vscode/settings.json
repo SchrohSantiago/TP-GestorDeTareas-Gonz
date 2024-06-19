@@ -1,0 +1,27 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "ejercicio11/gestorDeTareas/lib/javafx.base.jar",
+            "ejercicio11/gestorDeTareas/lib/javafx.controls.jar",
+            "ejercicio11/gestorDeTareas/lib/javafx.fxml.jar",
+            "ejercicio11/gestorDeTareas/lib/javafx.graphics.jar",
+            "ejercicio11/gestorDeTareas/lib/javafx.media.jar",
+            "ejercicio11/gestorDeTareas/lib/javafx.swing.jar",
+            "ejercicio11/gestorDeTareas/lib/javafx.web.jar",
+            "ejercicio11/gestorDeTareas/javafx-sdk-22.0.1/lib/javafx.base.jar",
+            "ejercicio11/gestorDeTareas/javafx-sdk-22.0.1/lib/javafx.controls.jar",
+            "ejercicio11/gestorDeTareas/javafx-sdk-22.0.1/lib/javafx.fxml.jar",
+            "ejercicio11/gestorDeTareas/javafx-sdk-22.0.1/lib/javafx.graphics.jar",
+            "ejercicio11/gestorDeTareas/javafx-sdk-22.0.1/lib/javafx.media.jar",
+            "ejercicio11/gestorDeTareas/javafx-sdk-22.0.1/lib/javafx.swing.jar",
+            "ejercicio11/gestorDeTareas/javafx-sdk-22.0.1/lib/javafx.web.jar",
+            "ejercicio11/gestorDeTareas/javafx-sdk-22.0.1/lib/javafx-swt.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\santi\\OneDrive\\Desktop\\javafx-sdk-22.0.1\\lib\\javafx-swt.jar",
+            "c:\\Users\\santi\\OneDrive\\Desktop\\javafx-sdk-22.0.1\\lib\\javafx.base.jar",
+            "ejercicio11/gestorDeTareas/lib/javafx-swt.jar"
+        ]
+    }
+}
